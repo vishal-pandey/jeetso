@@ -1,0 +1,67 @@
+/**
+  * Color
+  * Border Color
+  * Background Color
+  * Shadow Color
+*/
+
+/* Color
+-------------------------------------------------------------- */
+a:hover,.footer .widget-text .unstyled li a:hover,.footer .widget.widget-categories .unstyled li a:hover,
+.tp-banner .desc-slide,.flat-iconbox .content a.more,.flat-gallery .gallery-content a:hover,
+.flat-gallery .gallery-content h5:hover,
+.entry .entry-meta .date:hover,.entry .entry-title a:hover,.entry .entry-meta .comment a:hover
+,.flat-team h6.name,.footer > h1
+,.bottom .copyright span.heart::before,.row-testimonilas-slider .job,
+.go-top i,.featured-post .content-post .entry-meta a:hover,
+.wrap-share .share-post ul li a:hover, .wrap-share .share-post ul li:first-child a,.entry .main-post a.more,
+.widget.widget-latest-weets ul.unstyled ul li.link a,.services-iconbox .content .more-detail a,
+.widget.widget-dowload ul li a:hover,.services-iconbox .content .title a:hover,.widget.widget-tag .tag-list a:hover
+,.main-content.blog-single .entry-title a,.contact-content .contact-address i,
+.bottom .copyright a:hover,.breadcrumbs ul li a:hover, 
+.go-top-v1 i,
+.widget.widget-tiwtter ul.unstyled > li > ul > li a,
+.widget.widget-recentpost ul li .text h6 a:hover,
+.widget.widget-categories .unstyled li a:hover,
+.header .header-wrap .show-search:hover a, 
+.header .header-wrap .cart:hover a, .header .header-wrap .block:hover a {
+	color: #f63e30;
+}
+
+/* Border Color
+-------------------------------------------------------------- */
+.flat-services .wrap-img:hover::before ,
+.flat-gallery .gallery-link li span:hover,.sw-even a:hover,
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus, 
+input[type="date"]:focus, 
+input[type="month"]:focus, 
+input[type="time"]:focus,
+input[type="week"]:focus, 
+input[type="number"]:focus,
+input[type="email"]:focus, 
+input[type="url"]:focus, 
+input[type="search"]:focus,
+input[type="tel"]:focus, 
+input[type="color"]:focus,
+.contact-address .style2,
+.flat-services.item:hover .wrap-img::before {
+	border-color: #f63e30;
+}
+
+/* Background Color
+-------------------------------------------------------------- */
+.switcher-container h2 a,#mainnav ul.submenu > li > a:hover,.go-top:hover,.header .header-wrap .cart span.number-cart,
+.flat-services .owl-theme .owl-dots .owl-dot.active span, .flat-services .owl-theme .owl-dots .owl-dot:hover span,.flat-title h3 span,.button--isi,.footer .widget.widget-latest-weets ul.unstyled > li > ul > li::before,
+.sw-even a:hover ,#mainnav > ul > li > a:after,.tp-caption.button-slider,
+.blog-pagination .flat-pagination li a:hover, .blog-pagination .flat-pagination li.active a,.flex-direction-nav a:hover,
+.flat-accordion .toggle-title.active,
+.blog-single .comment-post .comment-detail a.comment-reply,
+button, input[type="button"],
+input[type="reset"], input[type="submit"],
+.footer-widgets .widget.widget-tiwtter ul.unstyled > li > ul > li::before {
+	background-color: #f63e30;
+}
